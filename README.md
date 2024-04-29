@@ -58,7 +58,7 @@ The script performs the following tasks:
 
 ## Author
 
-[Your Name](https://github.com/your-username)
+[Unai Aguiriano](https://github.com/unai-a)
 
 ## License
 
